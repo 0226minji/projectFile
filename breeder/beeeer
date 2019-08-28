@@ -1,0 +1,6 @@
+insert into product values('6','레츠고 이브이','53000','rpg','닌텐도 스위치','C:\Users\LG\Desktop\JSP_Project\breeder\images\cartImg.jpg','포켓몬 시리즈 이브이');
+insert into product values('1','젤다의 전설 : 야생의 숨결','61000','rpg','닌텐도 스위치','defeult','defeult');
+insert into product values('2','슈퍼마리오 : 오디세이','43000','레이싱','닌텐도 스위치','defeult','defeult');
+insert into product values('3','별의 커비 : 스타 얼라이즈','40000','rpg','닌텐도 스위치','defeult','defeult');
+insert into product values('4','사이쿄 컬렉션','30000','액션','플레이스테이션','defeult','defeult');
+insert into product values('5','콜오브 듀티','37000','fps','엑스박스','defeult','defeult');
